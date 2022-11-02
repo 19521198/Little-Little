@@ -1,6 +1,6 @@
 # Little-Little
 
-Little-Little là dự án em đã làm khi thực tập tại Công ty Alta Software nên em không thể public dự án.
+Little-Little là dự án em đã làm khi thực tập tại Công ty Alta Software nên em không thể public dự án, em có kèm video demo.
 
 Front-end của trang web được viết bằng HTML, CSS, Javascript.
 
